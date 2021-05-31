@@ -1,0 +1,5 @@
+This is a readme that will explain the high concept of greater good and what files were primarily my work.
+
+Greater Good was meant to be a 2-D maze survival game where you are being chased by a relentless monster in an attempt to bait the creature away from major population centers. A player would stay running until the population hit zero upon which the game ends with the player's fate ambiguous. The team that created this consisted of 4 members. It was 2 coders, an artist, and one flexible person.
+
+Without going into too many details, I will discuss what I worked on. Under the assets/scripts folder, everything involving nodes and monster traits is what I had worked on. The Monster Behaviour main script contains the logic the monster uses when determining which of its senses to follow. If the player is within a small cone in front of the beast, then monster sight takes the highest priority. Then, if the player is in a certain radius of the beast, monster hearing takes priority. Finally, if the player is no where near the monster, monster pathing takes priority.
