@@ -1,0 +1,3 @@
+Platform Man, also known as Reflected Self, was a 2-D puzzle platformer built by a team of 4 members. We were constructing this for a previous game jam under the idea of "What you see is what you are." The main mechanic of the game is the ability to transform certain aspects of the puzzle into another playable character and back. We had 2 coders, 1 artist, and 1 flexible person to construct the game.
+
+I worked primarily on the level changing system. In the assets/scripts folder you can find the level changing scripts, the game condition scripts, and the goal scripts. Any scripts that were primarily worked on by one individual have their names at the top of the script.
